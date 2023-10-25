@@ -16,4 +16,4 @@ I'm a passionate learner who enjoys exploring the world of technology and coding
 - [YouTube](https://www.youtube.com/channel/UCVocsgDzSXDswsoBb-_-Acw) - Check out my videos!
 - [Discord](https://discord.gg/Vb4mxWPM4K) - Join my community!
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/XADEMX72)
+[![GitHub followers](https://img.shields.io/github/followers/XADEMX72?label=Follow&style=social)](https://github.com/XADEMX72)
